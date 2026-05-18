@@ -24,12 +24,12 @@ OpenWeather API를 사용하여 원하는 도시의 현재 날씨를 확인할 �
 - OpenWeather API 키
 
 사용예시:
-날씨 알림 스크립트 시작
-도시 이름을 입력하세요 (예: Seoul): Seoul
-OpenWeather API 키를 입력하세요: YOUR_API_KEY
+- 날씨 알림 스크립트 시작
+- 도시 이름을 입력하세요 (예: Seoul): Seoul
+- OpenWeather API 키를 입력하세요: YOUR_API_KEY
 
 결과:
-🌤️ Seoul의 현재 날씨: 맑음, 온도: 22°C
+- 🌤️ Seoul의 현재 날씨: 맑음, 온도: 22°C
 
 요구사항
 - Python 3.x
